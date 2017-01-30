@@ -1,0 +1,1 @@
+When you open the website in your browser, you will see a selection of movies.  Click on the poster, and it will play the youtube trailer.

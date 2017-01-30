@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+#This code creates instances of the class movie, and adds the instance variables to it.
 
 toy_story = media.Movie("Toy Story", 
 						"A story of a boy and his toys that come to life",

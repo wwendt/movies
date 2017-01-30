@@ -1,6 +1,10 @@
 import webbrowser
 
+#this is the blueprint for Movie.  From here we create the template for storyline, title, trailer, and poser
+
 class Movie():
+	VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+
 	def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
 		self.title = movie_title
 		self.storyline = movie_storyline

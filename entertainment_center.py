@@ -30,3 +30,5 @@ good_fellas = media.Movie("GoodFellas", "Mobsters commit crimes",
 movies = [toy_story, avatar, skyfall, girl_with_dragon, silence_lambs, good_fellas]
 
 fresh_tomatoes.open_movies_page(movies)
+
+print media.Movie.__name__
